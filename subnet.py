@@ -2,7 +2,7 @@
 uniquecode = 26644
 
 #problem 1
-p1Network = '12.132.152.4'
+p1Network = '12.132.152.0'
 p1Broadcast = '12.132.152.7'
 p1First = '12.132.152.1'
 p1Last =  '12.132.152.6'
@@ -41,7 +41,7 @@ p6Last =  '79.58.217.222'
 p7Network = '246.43.178.0'
 p7Broadcast = '246.43.178.63'
 p7First = '246.43.178.1'
-p7Last = '246.43.178.254'
+p7Last = '246.43.178.62'
 
 #problem 8
 p8Network = '157.28.140.0'
